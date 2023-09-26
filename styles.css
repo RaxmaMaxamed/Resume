@@ -1,0 +1,93 @@
+body{
+
+    background-color: #c6ac8f;}
+
+#contactInfo{
+    color: #14213d;
+    text-align: center;
+    font-family: sans-serif;}
+
+#name{
+    margin-bottom: 0;}
+
+#location{
+    margin-top: 3px;
+    margin-bottom: 0;}
+
+#phone{
+    margin-top: 1px;
+    margin-bottom: 0;}
+
+#email{
+    margin-top: 3px;}
+
+#line{
+    height: 4px;
+    background-color:#5e503f;
+    border: 1px dashed;}
+
+#carsum{
+    margin-bottom: 1px;}
+
+#titleJ{
+    margin-top: 0;}
+
+#skil{
+    margin-bottom:14px;}
+
+#skilList{
+    margin-top: 6px;}
+
+#boozjob{
+  margin-top: 0;
+  margin-bottom: 0;}
+
+#boozjobtitle{
+    margin-top:0px;}
+    
+#joblistB{
+    margin-top:0px;}
+
+#quadjob{
+    margin-top:0;
+    margin-bottom:0;}
+
+#quadtitle{
+    margin-top:0;}
+
+#carejob{
+    margin-top:0;
+    margin-bottom:0;}
+
+#caretitle{
+    margin-top:0;}
+
+#degree{
+    margin-top: 0;
+    margin-bottom: 0;}
+
+#university{
+    margin-top:0;}
+
+#boozjob, #quadjob, #carejob{
+    display:inline;}
+
+#dates{
+    display:inline;
+    padding-left: 55%;}
+
+#datequad{
+    display:inline;
+    padding-left: 60% ;}
+
+#caredate{
+    display:inline;
+    padding-left: 60%;}
+
+
+
+
+
+
+
+
