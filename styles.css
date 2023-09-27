@@ -74,15 +74,21 @@ body{
 
 #dates{
     display:inline;
-    padding-left: 55%;}
+    padding-left: 55%;
+    text-decoration: none;
+    pointer-events: none;}
 
 #datequad{
     display:inline;
-    padding-left: 60% ;}
+    padding-left: 60% ;
+    text-decoration: none;
+    pointer-events: none;}
 
 #caredate{
     display:inline;
-    padding-left: 60%;}
+    padding-left: 60%;
+    text-decoration: none;
+    pointer-events: none;}
 
 
 
