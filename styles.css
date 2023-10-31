@@ -76,6 +76,12 @@ body{
 #boozjob, #quadjob, #carejob{
     display:inline;}
 
+#dates{
+    display:inline;
+    margin-top:0;
+    text-decoration: none;
+    pointer-events: none;}
+
 
 #datequad{
     display:inline;
