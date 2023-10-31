@@ -17,8 +17,7 @@ body{
 #phone{
     margin-top: 1px;
     margin-bottom: 0;
-    text-decoration: none;
-    pointer-events: none;}
+    text-decoration: none;}
 
 #email{
     margin-top: 3px;}
